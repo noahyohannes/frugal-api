@@ -35,7 +35,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/noahyohannes/Desktop/frugal/frugal-api",
     "node.js.detected.package.eslint": "true",
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737310889273</updated>
-      <workItem from="1737310890381" duration="2148000" />
+      <workItem from="1737310890381" duration="2451000" />
     </task>
     <servers />
   </component>
