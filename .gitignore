@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python dependencies (if using CDK in Python)
+*.pyc
+__pycache__/
+*.pyo
+.env
+
+# CDK-related files
+cdk.out/
+.cdk.staging/
+
+# AWS credentials and config
+.aws-sam/
+.aws/
+
+# Temporary files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.*
